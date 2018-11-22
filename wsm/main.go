@@ -1,4 +1,4 @@
-package wsm
+package main
 
 func main() {
 

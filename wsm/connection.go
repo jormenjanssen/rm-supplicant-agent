@@ -1,1 +1,1 @@
-package wsm
+package main
